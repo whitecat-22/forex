@@ -6,4 +6,4 @@ https://swdrsker.hatenablog.com/entry/2018/05/18/070000
 - https://www.oanda.jp/ の口座開設後に、APIアクセストークンが取得可能
 
 
-![]()
+![https://github.com/whitecat-22/forex/blob/main/capture.png](https://github.com/whitecat-22/forex/blob/main/capture.png)
