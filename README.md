@@ -2,7 +2,10 @@
 
 　
 
-[pythonで為替データを取ってきて移動平均、ボリンジャーバンド、ゴールデンクロス、デッドクロスを可視化](https://swdrsker.hatenablog.com/entry/2018/05/18/070000)
+### 参考記事：　pythonで為替データを取ってきて移動平均、ボリンジャーバンド、ゴールデンクロス、デッドクロスを可視化
+
+![https://github.com/whitecat-22/forex/blob/main/forex.png](https://swdrsker.hatenablog.com/entry/2018/05/18/070000)
+
 
 　
 
